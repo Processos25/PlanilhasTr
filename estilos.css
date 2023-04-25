@@ -38,7 +38,7 @@ body{
 video {
     object-fit: contain;
     overflow: clip;
-    opacity: 60%;
+    opacity: 80%;
 }
 
 .cartao{
@@ -82,7 +82,8 @@ video {
     color: var(--ColorMinhasInforCargo)
 }
 
-#minhas-redes, #sobre-mim p {
+#minhas-redes, #sobre-mim,
+#ipi, #ipi2 p {
     font-size: 30px;
 }
 
