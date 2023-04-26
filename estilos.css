@@ -10,9 +10,9 @@
 
     --ColorMinhasInforCargo: #f3f3f3;
 
-    --ColorAbasSelecionado: #7960ad;
-    --ColorInforAbas: #7960ad;
-    --ColorCartaoAbasAbaHover: #7960ad;
+    --ColorAbasSelecionado: #a460ad;
+    --ColorInforAbas: #a460ad;
+    --ColorCartaoAbasAbaHover: #a460ad;
 
     --ColorAHover: #fff;
 
@@ -62,7 +62,7 @@ video {
 }
 
 .cartao .minhas-informacoes img{
-    border-radius: 50px;
+    border-radius: 30px;
     border: 2px solid var(--ColorBorderCartaoMinhasInforImg);
     width: 100px;  
 }
